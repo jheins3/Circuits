@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 14 21:12:31 2020
 
-@author: jheins
+@author: jheins3
 """
 import math
 #import cmath

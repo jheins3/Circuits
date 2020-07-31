@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 20 20:58:18 2020
 
-@author: jhein
+@author: jhein3
 """
 
 import circuits
